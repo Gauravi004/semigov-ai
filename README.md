@@ -148,11 +148,6 @@ SemiGov AI is pre-loaded with curated knowledge on:
 
 ---
 
-## 📸 Screenshots
-
-> *Coming soon — add screenshots of your running app here!*
-
----
 
 ## 🤝 Contributing
 
